@@ -1,0 +1,33 @@
+--random script
+
+* text=auto
+*.txt text
+*.md text
+*.json text
+*.js text
+*.html text
+*.css text
+*.scss text
+*.less text
+*.yml text
+*.yaml text
+*.xml text
+*.svg text
+*.sh text eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.7z binary
+*.ttf binary
+*.eot binary
+*.woff binary
+*.woff2 binary
